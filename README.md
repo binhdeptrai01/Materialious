@@ -1,4 +1,4 @@
-<div align="center">  <img src="./materialious/static/logo.svg" width="200px" />
+.<div align="center">  <img src="./materialious/static/logo.svg" width="200px" />
   <br />
   <br />
   <h1>Materialious</h1>
